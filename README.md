@@ -1,5 +1,5 @@
 # System Automation
-Some of my scripts for server automation
+A variety of scripts that make certain processes easier.
 
 The Cron job given below is recommended for most tasks.
 
