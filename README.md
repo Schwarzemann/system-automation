@@ -10,5 +10,5 @@ The Cron job given below is recommended for most tasks.
 You can use the command given below to pull the scripts.
 
 ```bash
-curl -O https://raw.githubusercontent.com/Schwarzemann/system-automation/master/script-name.sh
+curl -O https://raw.githubusercontent.com/Schwarzemann/scripts/master/script-name.sh
 ```
